@@ -2,4 +2,6 @@
 
 class Circle
 {
+	int cradit;
+	 
 };
