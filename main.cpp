@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout << "hello world - Sang made changes";
+    cout << "Sang and Ly";
     return 0;
 
 }
